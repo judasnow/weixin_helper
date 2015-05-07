@@ -4,10 +4,9 @@ import unittest
 
 from weixin_helper.weixin_mp import WeixinMpHelper, WeixinError
 
-
+# 测试帐号
 appid = "wx8c10cb0ddc4ff104"
 appsecret = "755e311059118cccc0752ed8ebc61e6b"
-
 
 class TestWeixinHelper(unittest.TestCase):
 
