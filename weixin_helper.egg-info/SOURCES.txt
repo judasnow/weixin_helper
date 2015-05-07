@@ -1,0 +1,5 @@
+setup.py
+weixin_helper.egg-info/PKG-INFO
+weixin_helper.egg-info/SOURCES.txt
+weixin_helper.egg-info/dependency_links.txt
+weixin_helper.egg-info/top_level.txt
